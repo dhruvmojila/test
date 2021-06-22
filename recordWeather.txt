@@ -1,0 +1,40 @@
+-------------------------------------------------------------
+Weather Stats for - SURAT || 22 Jun 2021 | 09:13:49 AM
+-------------------------------------------------------------
+Current temperature is: 29.99000000000001 deg C
+Current weather desc  : haze
+Current Humidity      : 74 %
+Current wind speed    : 1.03 kmph
+
+-------------------------------------------------------------
+Weather Stats for - SURAT || 22 Jun 2021 | 09:14:11 AM
+-------------------------------------------------------------
+Current temperature is: 29.99000000000001 deg C
+Current weather desc  : haze
+Current Humidity      : 74 %
+Current wind speed    : 1.03 kmph
+
+-------------------------------------------------------------
+Weather Stats for - BARDOLI || 22 Jun 2021 | 09:14:23 AM
+-------------------------------------------------------------
+Current temperature is: 29.860000000000014 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 53 %
+Current wind speed    : 4.46 kmph
+
+-------------------------------------------------------------
+Weather Stats for - NAVSARI || 22 Jun 2021 | 09:14:49 AM
+-------------------------------------------------------------
+Current temperature is: 29.939999999999998 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 60 %
+Current wind speed    : 4.26 kmph
+
+-------------------------------------------------------------
+Weather Stats for - MUMBAI || 22 Jun 2021 | 09:15:13 AM
+-------------------------------------------------------------
+Current temperature is: 28.99000000000001 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 89 %
+Current wind speed    : 4.12 kmph
+
